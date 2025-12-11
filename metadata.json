@@ -1,0 +1,5 @@
+{
+  "name": "ROS Validator & Sim",
+  "description": "A comprehensive tool to validate ROS/ROS2 node code, checking for syntax and safety, with a simulated Gazebo execution preview.",
+  "requestFramePermissions": []
+}
